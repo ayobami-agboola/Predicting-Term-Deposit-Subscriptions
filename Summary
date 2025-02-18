@@ -1,0 +1,3 @@
+Comparative Study of Machine Learning Models for Predicting Term Deposit Subscriptions
+
+The bank dataset is a collection of customer data used to predict term deposit subscriptions in marketing campaigns, featuring demographics, financial details, and campaign-related attributes. Random Forest, SVM, Logistic Regression, and an ensemble of Random Forest and Logistic Regression were applied on the dataset. By employing hyperparameter tuning, class imbalance handling, and feature importance analysis, the models performancec were evaluated to balance predictive accuracy, interpretability, and suitability for financial applications, offering insights into customer behavior and improved decision-making strategies.
